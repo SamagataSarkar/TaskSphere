@@ -1,5 +1,8 @@
-const API_BASE_URL = '/api'; // Assuming Vite proxy is configured
+const API_BASE_URL = import.meta.env.PROD 
+    ? 'https://tasksphere-backend-b143.onrender.com/api' // Note: Remove '/api' here if your Spring Boot controllers do NOT use @RequestMapping("/api/...")
+    : '/api';
 
+    
 export const request = async (endpoint, method = 'GET', body = null) => {
     const token = localStorage.getItem('token');
     const headers = {

@@ -1,0 +1,9 @@
+AcceptInvite.jsx: 1 API calls and 1 handlers/selectors unchanged.
+Dashboard.jsx: 7 API calls and 8 handlers/selectors unchanged.
+ForgotPassword.jsx: 1 API calls and 1 handlers/selectors unchanged.
+Login.jsx: 1 API calls and 1 handlers/selectors unchanged.
+ProjectView.jsx: 11 API calls and 13 handlers/selectors unchanged.
+Register.jsx: 1 API calls and 1 handlers/selectors unchanged.
+ResetPassword.jsx: 1 API calls and 1 handlers/selectors unchanged.
+App.jsx: byte-for-byte unchanged.
+lib/api.js: byte-for-byte unchanged.

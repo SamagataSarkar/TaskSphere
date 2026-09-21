@@ -1,0 +1,247 @@
+[
+  {
+    "route": "/login",
+    "width": 1440,
+    "overflow": false,
+    "heading": "Welcome back",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/register",
+    "width": 1440,
+    "overflow": false,
+    "heading": "Create your account",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/forgot-password",
+    "width": 1440,
+    "overflow": false,
+    "heading": "Forgot Password?",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/reset-password",
+    "width": 1440,
+    "overflow": false,
+    "heading": "Create New Password",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/accept-invite",
+    "width": 1440,
+    "overflow": false,
+    "heading": "Project Invitation",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/dashboard",
+    "width": 1440,
+    "overflow": false,
+    "heading": "Welcome, User",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/projects/1",
+    "width": 1440,
+    "overflow": false,
+    "heading": "Project workspace",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/login",
+    "width": 768,
+    "overflow": false,
+    "heading": "Welcome back",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/register",
+    "width": 768,
+    "overflow": false,
+    "heading": "Create your account",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/forgot-password",
+    "width": 768,
+    "overflow": false,
+    "heading": "Forgot Password?",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/reset-password",
+    "width": 768,
+    "overflow": false,
+    "heading": "Create New Password",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/accept-invite",
+    "width": 768,
+    "overflow": false,
+    "heading": "Project Invitation",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/dashboard",
+    "width": 768,
+    "overflow": false,
+    "heading": "Welcome, User",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/projects/1",
+    "width": 768,
+    "overflow": false,
+    "heading": "Project workspace",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/login",
+    "width": 390,
+    "overflow": false,
+    "heading": "Welcome back",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/register",
+    "width": 390,
+    "overflow": false,
+    "heading": "Create your account",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/forgot-password",
+    "width": 390,
+    "overflow": false,
+    "heading": "Forgot Password?",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/reset-password",
+    "width": 390,
+    "overflow": false,
+    "heading": "Create New Password",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/accept-invite",
+    "width": 390,
+    "overflow": false,
+    "heading": "Project Invitation",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/dashboard",
+    "width": 390,
+    "overflow": false,
+    "heading": "Welcome, User",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/projects/1",
+    "width": 390,
+    "overflow": false,
+    "heading": "Project workspace",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/login",
+    "width": 320,
+    "overflow": false,
+    "heading": "Welcome back",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/register",
+    "width": 320,
+    "overflow": false,
+    "heading": "Create your account",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/forgot-password",
+    "width": 320,
+    "overflow": false,
+    "heading": "Forgot Password?",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/reset-password",
+    "width": 320,
+    "overflow": false,
+    "heading": "Create New Password",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/accept-invite",
+    "width": 320,
+    "overflow": false,
+    "heading": "Project Invitation",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/dashboard",
+    "width": 320,
+    "overflow": false,
+    "heading": "Welcome, User",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "route": "/projects/1",
+    "width": 320,
+    "overflow": false,
+    "heading": "Project workspace",
+    "unlabeled": [],
+    "unnamedButtons": []
+  },
+  {
+    "dialog": true,
+    "backgroundInert": true,
+    "focusInside": true,
+    "overflow": false,
+    "labels": true
+  },
+  {
+    "forwardTrap": true
+  },
+  {
+    "backwardTrap": true
+  },
+  {
+    "closed": true,
+    "focusRestored": true,
+    "backgroundRestored": true
+  },
+  {
+    "reducedMotion": "none"
+  }
+]

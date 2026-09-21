@@ -1,0 +1,701 @@
+{
+  "screens": [
+    {
+      "route": "/login",
+      "width": 320,
+      "overflow": false,
+      "heading": false,
+      "unlabeled": 0,
+      "contrastChecked": 0,
+      "contrastFailures": []
+    },
+    {
+      "route": "/register",
+      "width": 320,
+      "overflow": false,
+      "heading": false,
+      "unlabeled": 0,
+      "contrastChecked": 0,
+      "contrastFailures": []
+    },
+    {
+      "route": "/forgot-password",
+      "width": 320,
+      "overflow": false,
+      "heading": false,
+      "unlabeled": 0,
+      "contrastChecked": 0,
+      "contrastFailures": []
+    },
+    {
+      "route": "/reset-password",
+      "width": 320,
+      "overflow": false,
+      "heading": false,
+      "unlabeled": 0,
+      "contrastChecked": 0,
+      "contrastFailures": []
+    },
+    {
+      "route": "/accept-invite",
+      "width": 320,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 7,
+      "contrastFailures": []
+    },
+    {
+      "route": "/dashboard",
+      "width": 320,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 22,
+      "contrastFailures": []
+    },
+    {
+      "route": "/projects/1",
+      "width": 320,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 18,
+      "contrastFailures": []
+    },
+    {
+      "route": "/login",
+      "width": 360,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 1,
+      "contrastChecked": 10,
+      "contrastFailures": []
+    },
+    {
+      "route": "/register",
+      "width": 360,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 11,
+      "contrastFailures": []
+    },
+    {
+      "route": "/forgot-password",
+      "width": 360,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 7,
+      "contrastFailures": []
+    },
+    {
+      "route": "/reset-password",
+      "width": 360,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 8,
+      "contrastFailures": []
+    },
+    {
+      "route": "/accept-invite",
+      "width": 360,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 7,
+      "contrastFailures": []
+    },
+    {
+      "route": "/dashboard",
+      "width": 360,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 22,
+      "contrastFailures": []
+    },
+    {
+      "route": "/projects/1",
+      "width": 360,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 18,
+      "contrastFailures": []
+    },
+    {
+      "route": "/login",
+      "width": 375,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 1,
+      "contrastChecked": 10,
+      "contrastFailures": []
+    },
+    {
+      "route": "/register",
+      "width": 375,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 1,
+      "contrastChecked": 11,
+      "contrastFailures": []
+    },
+    {
+      "route": "/forgot-password",
+      "width": 375,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 7,
+      "contrastFailures": []
+    },
+    {
+      "route": "/reset-password",
+      "width": 375,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 8,
+      "contrastFailures": []
+    },
+    {
+      "route": "/accept-invite",
+      "width": 375,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 7,
+      "contrastFailures": []
+    },
+    {
+      "route": "/dashboard",
+      "width": 375,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 22,
+      "contrastFailures": []
+    },
+    {
+      "route": "/projects/1",
+      "width": 375,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 18,
+      "contrastFailures": []
+    },
+    {
+      "route": "/login",
+      "width": 390,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 1,
+      "contrastChecked": 10,
+      "contrastFailures": []
+    },
+    {
+      "route": "/register",
+      "width": 390,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 11,
+      "contrastFailures": []
+    },
+    {
+      "route": "/forgot-password",
+      "width": 390,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 7,
+      "contrastFailures": []
+    },
+    {
+      "route": "/reset-password",
+      "width": 390,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 8,
+      "contrastFailures": []
+    },
+    {
+      "route": "/accept-invite",
+      "width": 390,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 7,
+      "contrastFailures": []
+    },
+    {
+      "route": "/dashboard",
+      "width": 390,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 22,
+      "contrastFailures": []
+    },
+    {
+      "route": "/projects/1",
+      "width": 390,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 18,
+      "contrastFailures": []
+    },
+    {
+      "route": "/login",
+      "width": 768,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 10,
+      "contrastFailures": []
+    },
+    {
+      "route": "/register",
+      "width": 768,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 1,
+      "contrastChecked": 11,
+      "contrastFailures": []
+    },
+    {
+      "route": "/forgot-password",
+      "width": 768,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 7,
+      "contrastFailures": []
+    },
+    {
+      "route": "/reset-password",
+      "width": 768,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 8,
+      "contrastFailures": []
+    },
+    {
+      "route": "/accept-invite",
+      "width": 768,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 7,
+      "contrastFailures": []
+    },
+    {
+      "route": "/dashboard",
+      "width": 768,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 22,
+      "contrastFailures": []
+    },
+    {
+      "route": "/projects/1",
+      "width": 768,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 18,
+      "contrastFailures": []
+    },
+    {
+      "route": "/login",
+      "width": 1024,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 1,
+      "contrastChecked": 15,
+      "contrastFailures": []
+    },
+    {
+      "route": "/register",
+      "width": 1024,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 1,
+      "contrastChecked": 16,
+      "contrastFailures": []
+    },
+    {
+      "route": "/forgot-password",
+      "width": 1024,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 12,
+      "contrastFailures": []
+    },
+    {
+      "route": "/reset-password",
+      "width": 1024,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 13,
+      "contrastFailures": []
+    },
+    {
+      "route": "/accept-invite",
+      "width": 1024,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 12,
+      "contrastFailures": []
+    },
+    {
+      "route": "/dashboard",
+      "width": 1024,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 27,
+      "contrastFailures": []
+    },
+    {
+      "route": "/projects/1",
+      "width": 1024,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 23,
+      "contrastFailures": []
+    },
+    {
+      "route": "/login",
+      "width": 1280,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 15,
+      "contrastFailures": []
+    },
+    {
+      "route": "/register",
+      "width": 1280,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 1,
+      "contrastChecked": 16,
+      "contrastFailures": []
+    },
+    {
+      "route": "/forgot-password",
+      "width": 1280,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 12,
+      "contrastFailures": []
+    },
+    {
+      "route": "/reset-password",
+      "width": 1280,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 13,
+      "contrastFailures": []
+    },
+    {
+      "route": "/accept-invite",
+      "width": 1280,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 12,
+      "contrastFailures": []
+    },
+    {
+      "route": "/dashboard",
+      "width": 1280,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 27,
+      "contrastFailures": []
+    },
+    {
+      "route": "/projects/1",
+      "width": 1280,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 23,
+      "contrastFailures": []
+    },
+    {
+      "route": "/login",
+      "width": 1440,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 1,
+      "contrastChecked": 15,
+      "contrastFailures": []
+    },
+    {
+      "route": "/register",
+      "width": 1440,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 1,
+      "contrastChecked": 16,
+      "contrastFailures": []
+    },
+    {
+      "route": "/forgot-password",
+      "width": 1440,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 12,
+      "contrastFailures": []
+    },
+    {
+      "route": "/reset-password",
+      "width": 1440,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 13,
+      "contrastFailures": []
+    },
+    {
+      "route": "/accept-invite",
+      "width": 1440,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 12,
+      "contrastFailures": []
+    },
+    {
+      "route": "/dashboard",
+      "width": 1440,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 27,
+      "contrastFailures": []
+    },
+    {
+      "route": "/projects/1",
+      "width": 1440,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 23,
+      "contrastFailures": []
+    }
+  ],
+  "dialogs": [
+    {
+      "title": "New Project",
+      "width": 320,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 25,
+      "contrastFailures": [],
+      "associatedTitle": true,
+      "focusInside": true,
+      "isolated": true,
+      "scrollable": true
+    },
+    {
+      "title": "New Project",
+      "width": 320,
+      "closed": true,
+      "restored": true
+    },
+    {
+      "title": "Account settings",
+      "width": 320,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 30,
+      "contrastFailures": [],
+      "associatedTitle": true,
+      "focusInside": true,
+      "isolated": true,
+      "scrollable": true
+    },
+    {
+      "title": "Account settings",
+      "width": 320,
+      "closed": true,
+      "restored": true
+    },
+    {
+      "title": "New Project",
+      "width": 768,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 25,
+      "contrastFailures": [],
+      "associatedTitle": true,
+      "focusInside": true,
+      "isolated": true,
+      "scrollable": true
+    },
+    {
+      "title": "New Project",
+      "width": 768,
+      "closed": true,
+      "restored": true
+    },
+    {
+      "title": "Account settings",
+      "width": 768,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 30,
+      "contrastFailures": [],
+      "associatedTitle": true,
+      "focusInside": true,
+      "isolated": true,
+      "scrollable": true
+    },
+    {
+      "title": "Account settings",
+      "width": 768,
+      "closed": true,
+      "restored": true
+    },
+    {
+      "title": "New Project",
+      "width": 1440,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 30,
+      "contrastFailures": [],
+      "associatedTitle": true,
+      "focusInside": true,
+      "isolated": true,
+      "scrollable": true
+    },
+    {
+      "title": "New Project",
+      "width": 1440,
+      "closed": true,
+      "restored": true
+    },
+    {
+      "title": "Account settings",
+      "width": 1440,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 35,
+      "contrastFailures": [],
+      "associatedTitle": true,
+      "focusInside": true,
+      "isolated": true,
+      "scrollable": true
+    },
+    {
+      "title": "Account settings",
+      "width": 1440,
+      "closed": true,
+      "restored": true
+    }
+  ],
+  "stress": [
+    {
+      "width": 320,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 13,
+      "contrastFailures": []
+    },
+    {
+      "width": 360,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 13,
+      "contrastFailures": []
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 13,
+      "contrastFailures": []
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 13,
+      "contrastFailures": []
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 13,
+      "contrastFailures": []
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 13,
+      "contrastFailures": []
+    },
+    {
+      "width": 1280,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 13,
+      "contrastFailures": []
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "heading": true,
+      "unlabeled": 0,
+      "contrastChecked": 13,
+      "contrastFailures": []
+    }
+  ],
+  "exceptions": [],
+  "zoom200": {
+    "physicalViewport": "1440×900, effective CSS viewport 720×450",
+    "width": 720,
+    "overflow": false,
+    "heading": true,
+    "unlabeled": 0,
+    "contrastChecked": 13,
+    "contrastFailures": []
+  },
+  "reducedMotion": "none"
+}

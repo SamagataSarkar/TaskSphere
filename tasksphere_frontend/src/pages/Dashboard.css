@@ -1,0 +1,57 @@
+/* Scope all refinements to Dashboard content; navigation and portals are outside it. */
+.dashboard-content .dashboard-heading { display: flex; align-items: flex-start; justify-content: space-between; gap: 24px; margin-bottom: 28px; }
+.dashboard-content .dashboard-heading > div:first-child { flex: 1; min-width: 0; }
+.dashboard-content .dashboard-heading h1 { font-size: 28px; line-height: 1.35; font-weight: 600; }
+.dashboard-content .dashboard-heading .eyebrow { font-size: 10px; letter-spacing: .12em; margin-bottom: 10px; }
+.dashboard-content .dashboard-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; flex-shrink: 0; }
+.dashboard-content .dashboard-actions > button { min-height: 44px; border-radius: 10px; box-shadow: none; }
+.dashboard-content .dashboard-actions > button[title] { width: 44px; padding: 0; justify-content: center; background: transparent; border-color: transparent; }
+.dashboard-content .dashboard-actions > button[title]:hover { background: #12253b; }
+
+.dashboard-content .dashboard-metrics { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); margin-bottom: 40px; padding-block: 8px 24px; border-bottom: 1px solid #2c415880; }
+.dashboard-content .dashboard-metric { display: flex; align-items: center; gap: 14px; min-width: 0; padding: 14px 20px; text-align: left; background: transparent; border: 0; border-radius: 8px; transition: background-color 180ms; }
+.dashboard-content .dashboard-metric + .dashboard-metric { border-left: 1px solid #2c415880; border-radius: 0 8px 8px 0; }
+.dashboard-content .dashboard-metric:hover { background: #0d1d2e; }
+.dashboard-content .dashboard-metric > div:last-child { min-width: 0; }
+.dashboard-content .dashboard-metric-icon { display: grid; place-items: center; flex-shrink: 0; width: 24px; }
+.dashboard-content .dashboard-metric p { font-size: 12px; line-height: 1.5; font-weight: 400; }
+.dashboard-content .dashboard-metric h3 { margin-top: 4px; font-size: 28px; line-height: 1.2; font-weight: 600; font-variant-numeric: tabular-nums; }
+
+.dashboard-content .dashboard-projects-title { margin-bottom: 16px; }
+.dashboard-content .dashboard-project-tabs { display: flex; flex-wrap: wrap; gap: 8px 24px; margin-bottom: 24px; border-bottom: 1px solid #2c415880; }
+.dashboard-content .dashboard-project-tabs button { min-height: 44px; }
+.dashboard-content .dashboard-project-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); gap: 16px; align-items: stretch; }
+.dashboard-content .dashboard-project-card { display: flex; flex-direction: column; min-width: 0; min-height: 188px; padding: 20px; background: #0d1d2e; border: 1px solid #273b50; border-radius: 12px; box-shadow: none; transition: transform 180ms, border-color 180ms, background-color 180ms; }
+.dashboard-content .dashboard-project-card:hover { transform: translateY(-2px); background: #102236; border-color: #496277; }
+.dashboard-content .dashboard-card-header { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 20px; }
+.dashboard-content .dashboard-project-icon { display: grid; place-items: center; width: 28px; }
+.dashboard-content .dashboard-card-actions { display: flex; align-items: center; gap: 4px; }
+.dashboard-content .dashboard-archive-button { display: grid; place-items: center; min-width: 44px; min-height: 44px; border-radius: 8px; background: transparent; }
+.dashboard-content .dashboard-archive-button:hover { background: #1b3046; }
+.dashboard-content .dashboard-project-arrow { display: grid; place-items: center; width: 24px; transition: transform 180ms; }
+.dashboard-content .dashboard-project-card:hover .dashboard-project-arrow { transform: translateX(3px); }
+.dashboard-content .project-link::after { border-radius: 12px; }
+.dashboard-content .dashboard-project-card h3 { line-height: 1.55; }
+.dashboard-content .dashboard-project-description { margin-top: 8px; font-size: 12px; line-height: 1.7; overflow-wrap: anywhere; }
+.dashboard-content .dashboard-empty { padding: 48px 20px; }
+.dashboard-content .skeleton-grid { grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); gap: 16px; }
+.dashboard-content .skeleton-card { height: 188px; padding: 20px; border-radius: 12px; border-color: #273b50; }
+
+@media (max-width: 1100px) {
+  .dashboard-content .dashboard-heading { flex-wrap: wrap; }
+  .dashboard-content .dashboard-heading > div:first-child { flex-basis: 320px; }
+  .dashboard-content .dashboard-metric { padding-inline: 12px; gap: 10px; }
+}
+@media (max-width: 639px) {
+  .dashboard-content .dashboard-heading { gap: 20px; }
+  .dashboard-content .dashboard-heading h1 { font-size: 24px; }
+  .dashboard-content .dashboard-metrics { grid-template-columns: 1fr; margin-bottom: 32px; padding-block: 0 20px; }
+  .dashboard-content .dashboard-metric { padding: 12px 4px; gap: 12px; }
+  .dashboard-content .dashboard-metric + .dashboard-metric { border-left: 0; border-top: 1px solid #2c415840; border-radius: 0; }
+  .dashboard-content .dashboard-metric > div:last-child { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex: 1; }
+  .dashboard-content .dashboard-metric h3 { margin-top: 0; font-size: 24px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .dashboard-content .dashboard-project-card:hover,
+  .dashboard-content .dashboard-project-card:hover .dashboard-project-arrow { transform: none; }
+}

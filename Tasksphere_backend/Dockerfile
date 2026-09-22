@@ -10,5 +10,5 @@ FROM eclipse-temurin:21-jre
 WORKDIR /app
 COPY --from=build /app/target/*.jar app.jar
 EXPOSE 8080
-# Restrict JVM memory to prevent Render from killing the container
+# Restricts JVM memory to prevent Render from killing the container
 ENTRYPOINT ["java", "-Xmx300m", "-Xss512k", "-jar", "app.jar"]

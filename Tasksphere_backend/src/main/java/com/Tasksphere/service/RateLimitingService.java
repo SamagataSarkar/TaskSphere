@@ -20,8 +20,8 @@ public class RateLimitingService {
     private Bucket newBucket(String identifier) {
         // Modern Bucket4j 8.x+ Builder Syntax
         Bandwidth limit = Bandwidth.builder()
-                .capacity(5)
-                .refillIntervally(5, Duration.ofMinutes(15))
+                .capacity(20)
+                .refillIntervally(20, Duration.ofMinutes(15))
                 .build();
 
         return Bucket.builder().addLimit(limit).build();
